@@ -1,4 +1,0 @@
-#install package
-
-import sys
-!conda install --yes --prefix {sys.prefix} mailmerge
