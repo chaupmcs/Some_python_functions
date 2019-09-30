@@ -1,0 +1,14 @@
+artifact_uri: /chau/some_python_functions/mlruns/0/54c22547c3d34939a2a5ff33731e13b4/artifacts
+end_time: 1547449465104
+entry_point_name: ''
+experiment_id: 0
+lifecycle_stage: active
+name: ''
+run_uuid: 54c22547c3d34939a2a5ff33731e13b4
+source_name: /home/cpu11158/anaconda3/envs/py36_env/lib/python3.6/site-packages/ipykernel_launcher.py
+source_type: 4
+source_version: ''
+start_time: 1547449464570
+status: 4
+tags: []
+user_id: cpu11158
